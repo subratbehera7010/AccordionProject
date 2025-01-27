@@ -8,4 +8,3 @@ This project contains 2 Components
 ### Project Preview
 
 ![Project Preview](./image.png)
-![Project Preview](./projectVideoPreview.mp4)
